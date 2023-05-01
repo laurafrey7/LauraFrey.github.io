@@ -1,2 +1,2 @@
-# LauraFrey.github.io
+# laurafrey7.github.io
 My Github!
